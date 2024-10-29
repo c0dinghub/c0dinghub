@@ -5,19 +5,19 @@
 
 - 🔭 I’m currently enjoying: Web Development
 
-- 🌱 I’m learning: React with Java
+- 🌱 I’m learning: Laravel
 
 - 👨‍💻 All of my projects are available at: [Website not available]()
 
-- 📫 How to reach me: programmer.gshi28@gmail.com
+- 📫 How to reach me: manishgrg743@gmail.com
 
 - 📄 Know about my experiences: [CV is under development]()
 
-- ⚡ Fun fact: I am Introvert
+- ⚡ Fun fact: I am Ambivert
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dambarsingg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dambarsingg" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manishgurubg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
